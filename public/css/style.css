@@ -1,0 +1,22 @@
+body{
+    background-color: #000000ec;
+    color: aliceblue;
+    
+}
+
+#card-pergunta{
+    color: black;
+}
+#card-pergunta-footer{
+    background-color: #646b6b;
+}
+
+
+#card-resposta{
+    color: black;
+}
+
+#formulario-pergunta{
+    color: black;
+    margin-top: 5vh;
+}
